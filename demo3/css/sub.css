@@ -5,3 +5,18 @@
     font-size: 1.2em;
     line-height: 3em;
 }
+
+.index_left_text {
+    margin: 0px 0px 10px 80px;
+}
+
+.index_left_img {
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+
+.index_left h2 {
+    padding-bottom: 10px;
+    line-height: 40px;
+}
+
