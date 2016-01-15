@@ -458,7 +458,7 @@ a#nav-purple:hover, a.selected-purple{
 
 .news_text{
     clear: both;
-    padding-top: 20px;
+    /*padding-top: 20px;*/
     line-height: 20px;
 }
 

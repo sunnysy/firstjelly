@@ -39,3 +39,16 @@
     height: auto;
     margin: 0px 0px 20px 0px;
 }
+
+.news_img{
+    width: 400px;
+    margin-left: 80px; margin-bottom: 10px;
+}
+
+.news_title {
+    margin: 12px 0px;
+}
+
+.news_text p {
+    margin: 0px 20px 10px 20px;
+}
