@@ -52,3 +52,46 @@
 .news_text p {
     margin: 0px 20px 10px 20px;
 }
+
+.text_box h3 {
+    margin: 0px 0px 0px 10px;
+}
+
+.index_right img {
+    margin: 5px 0px 0px 0px;
+}
+
+.about_left {
+    float: left;
+    width: 544px;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+.about_left h2 {
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+}
+
+.about_left p {
+    font-size: 1.3em;
+    line-height: 1.8em;
+}
+
+
+.about_left p .left {
+    float: left;
+}
+
+.about_left p .right {
+    float:right;
+}
+
+a.document_title {
+    color: #046CB5;
+    font-size: 1.2em;
+    line-height: 2em;
+}
+
+a.document_title:hover {
+    font-style: italic;
+}

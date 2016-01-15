@@ -71,7 +71,7 @@
 					gall_settings.push(key);
 				}
 				for (var i=0; i<gall_settings.length; i++) {
-					$(gall_settings[i]).each(function(rel){this.rel = rel+1 + "&nbsp;of&nbsp;" + $(gall_settings[i]).length;});
+					$(gall_settings[i]).each(function(rel){this.rel = rel+1 + "&nbsp;/&nbsp;" + $(gall_settings[i]).length;});
 						var add_first = $(gall_settings[i]+':first').addClass('first');
 						var add_last = $(gall_settings[i]+':last').addClass('last');
 				}						
